@@ -1,2 +1,2 @@
 # Expense-tracker
-mern stack application
+Mern Stack Application
